@@ -1,8 +1,5 @@
 # OnlineCodingCompetation-2021
 
-Congratulations!!
-
-You have been shortlisted for the final Coding Round that is held on 15th June 2021 at 5pm.
 
 These are some of the rules you need to follow:
 
