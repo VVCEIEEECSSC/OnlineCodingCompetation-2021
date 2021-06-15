@@ -13,7 +13,6 @@ These are some of the rules you need to follow:
 
 5.      You are not supposed to share the problem statement with anyone until and unless the event is completely over
 
-Hope you have a GitHub account, if not please create one before the event.
 
 All the best for your future enclaves!!
 
